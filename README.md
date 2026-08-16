@@ -8,6 +8,19 @@ A business-focused CRM and incident management web application designed to manag
 
 ---
 
+## 📋 Project at a Glance
+
+| Category | Details |
+|---|---|
+| **Project Type** | Enterprise CRM & Incident Management Application |
+| **Domain** | CRM / Incident & Business Operations |
+| **Development** | Application Development & Enhancement |
+| **Backend** | ASP.NET Core / .NET, C# |
+| **Frontend** | HTML5, CSS3, JavaScript, Bootstrap |
+| **Database** | Microsoft SQL Server |
+| **API** | REST APIs |
+| **Key Areas** | Incident Management, Business Rules, Users, Roles, Pages, Permissions & System Administration |
+
 ## 📌 Project Overview
 
 This application is a CRM and incident management platform designed to support business operations and internal workflows.
