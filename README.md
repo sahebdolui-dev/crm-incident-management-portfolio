@@ -1,3 +1,5 @@
+![CRM & Incident Management System Banner](banner.png)
+
 # CRM & Incident Management System
 
 A business-focused CRM and incident management web application designed to manage incidents, business rules, users, roles, permissions, and administrative workflows through a structured enterprise-style interface.
